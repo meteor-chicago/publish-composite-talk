@@ -5,5 +5,9 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
+twbs:bootstrap
+audit-argument-checks
+reywood:publish-composite
+kadira:blaze-layout
+kadira:flow-router
 insecure
